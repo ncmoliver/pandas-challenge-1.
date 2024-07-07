@@ -13,13 +13,18 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 ## Data Analysis
 
-Step 1: Data Exploration
+#### Data Exploration
 
 - My initial interest in the data was understanding the company from an average perspective.
   - How much the average prouct sold for.
   - How much the average product cost.
   - How much the average product weighed.
   - Most sold subcategory
+
+#### Most Entries\*\*
+
+- Identified the _category_ and _sub-category_ with the most order entries.
+- Identfied the top 5 clients with the most orders (Client ID and # of orders).
 
 ## Data Cleaning Process
 
