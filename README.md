@@ -73,3 +73,4 @@ This project is aimed at achieving real-world results by using raw data from an 
 ## References
 
 [Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/) - Used for proper Markdown Syntax.
+[How to use Pandas filter with IQR?](https://www.geeksforgeeks.org/how-to-use-pandas-filter-with-iqr/)
