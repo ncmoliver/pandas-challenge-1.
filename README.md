@@ -36,6 +36,8 @@ This project is aimed at achieving real-world results by using raw data from an 
 | **(x)**               | the function requires a dataframe to be passed through.                                                                                   |
 | **Returns**           | Scaled Data and Formated Columns: Each value in dataframe is divided by 1 Million to simplify numbers. Column names are renamed to adjust |
 
+<hr>
+
 ### Data Cleaning Process : Screenshots
 
 #### Original DataFrame
