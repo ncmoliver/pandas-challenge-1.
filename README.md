@@ -23,9 +23,7 @@ return
 | Part of Function | Description/Function |
 
 | ----------------- | ----------------------------------------- |
-| **(x)** | the function requires a dataframe to be passed through.
-return|
-| **Returns** | Scaled Data and Formated Columns: Each value in dataframe is divided by 1 Million to simplify numbers. Column names are renamed to adjust |
+| **(x)** | the function requires a dataframe to be passed through. return|| **Returns** | Scaled Data and Formated Columns: Each value in dataframe is divided by 1 Million to simplify numbers. Column names are renamed to adjust |
 
 - **(Lambda Function)** dollar_to_millions(x)
   - **x ⇢** Requires a DataFrame of int/float values to be passed in.
