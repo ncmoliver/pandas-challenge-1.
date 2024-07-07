@@ -11,13 +11,13 @@ This project is aimed at achieving real-world results by using raw data from an 
 During this analysis, data cleaning was used to make the findings clear. the data is an important part in making the result/findings clear.
 
 - Function dollar_to_millions(x)
-  - x : Requires a DataFrame of int/float values to be passed in.
-  - return: Scales The Data and Formats Column Names
-  * Scale The Data
-    - The raw results were in millions, which can be hard to distiguish.
-    - By dividing the money columns by one million, provided an easy way to read the numbers.
-  * Clear/Formatted Column Names
-    - Using the pandas .rename() function this provided an easy way to rename the column names to easily identifiable column names
+  - **x** : Requires a DataFrame of int/float values to be passed in.
+  - **return**: Scales The Data and Formats Column Names
+    - Scale The Data
+      - The raw results were in millions, which can be hard to distiguish.
+      - By dividing the money columns by one million, provided an easy way to read the numbers.
+    - Clear/Formatted Column Names
+      - Using the pandas .rename() function this provided an easy way to rename the column names to easily identifiable column names
 -
 
 | File Image                                | Description       |
