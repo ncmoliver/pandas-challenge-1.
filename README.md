@@ -31,10 +31,9 @@ This project is aimed at achieving real-world results by using raw data from an 
 ✓ Data cleaning was used to simplify the numbers in the DataFrame.  
 ✓ Using a lamba function **dollar_to_millions(x)**:
 
-<hr>
-| Parts of the Function | Description/Function       |
-| --------------------- | -------------------------- |
-| **(x)**               | the function requires a dataframe to be passed through.|
+| Parts of the Function | Description/Function                                                                                                                      |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **(x)**               | the function requires a dataframe to be passed through.                                                                                   |
 | **Returns**           | Scaled Data and Formated Columns: Each value in dataframe is divided by 1 Million to simplify numbers. Column names are renamed to adjust |
 
 ## Data Cleaning Process : Screenshots
