@@ -10,7 +10,7 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 During this analysis, data cleaning was used to make the findings clear. the data is an important part in making the result/findings clear.
 
-- Function dollar_to_millions(x)
+- **(Function)** dollar_to_millions(x)
   - **x** : Requires a DataFrame of int/float values to be passed in.
   - **return**: Scaled Data and Formated Columns
     - Scaled Data
