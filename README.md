@@ -23,8 +23,8 @@ Step 1: Data Exploration
 
 ## Data Cleaning Process
 
-✔️ Data cleaning was used to simplify the numbers in the DataFrame.
-✔️ Using a lamba function **dollar_to_millions(x)**:
+✓ Data cleaning was used to simplify the numbers in the DataFrame.  
+✓ Using a lamba function **dollar_to_millions(x)**:
 
 | Parts of the Function | Description/Function                                                                                                                      |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
