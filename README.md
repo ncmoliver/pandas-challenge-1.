@@ -24,14 +24,10 @@ return
 
 | ----------------- | ----------------------------------------- |
 | **(x)** | the function requires a dataframe to be passed through.
-return
-|
-| **Returns** | Scaled Data and Formated Columns:
+return|
+| **Returns** | Scaled Data and Formated Columns: Each value in dataframe is divided by 1 Million to simplify numbers. Column names are renamed to adjust |
 
-- Each value in dataframe is divided by 1 Million to simplify numbers.
-- Column names are renamed to adjust |
-
-* **(Lambda Function)** dollar_to_millions(x)
+- **(Lambda Function)** dollar_to_millions(x)
   - **x ⇢** Requires a DataFrame of int/float values to be passed in.
   - **Returns ⇢** Scaled Data and Formated Columns
     - Scaled and Format Data - With the use of a lambda function, the data was scaled (each value divided by one million) and formatted (adding $ in front of the value and M representing million after the value).
