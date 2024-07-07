@@ -26,6 +26,7 @@ Step 1: Data Exploration
 ✓ Data cleaning was used to simplify the numbers in the DataFrame.  
 ✓ Using a lamba function **dollar_to_millions(x)**:
 
+<hr>
 | Parts of the Function | Description/Function                                                                                                                      |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | **(x)**               | the function requires a dataframe to be passed through.                                                                                   |
