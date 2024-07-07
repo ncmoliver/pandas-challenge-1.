@@ -26,7 +26,7 @@ This project is aimed at achieving real-world results by using raw data from an 
 - Identified the _category_ and _sub-category_ with the most order entries.
 - Identfied the top 5 clients with the most orders (Client ID and # of orders).
 
-## Data Cleaning Process
+## 🧺 Data Cleaning Process
 
 ✓ Data cleaning was used to simplify the numbers in the DataFrame.  
 ✓ Using a lamba function **dollar_to_millions(x)**:
@@ -38,24 +38,27 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 <hr>
 
-### Data Cleaning Process : Screenshots
+## 📷 Data Cleaning Process : Screenshots
 
-#### Original DataFrame
+### Original DataFrame
 
 <img src="./Screenshots/original_sc.png">
 
-#### Final DataFrame
+### Final DataFrame
 
 <img src="./Screenshots/final_sc.png">
 
-## Project Files
+## 💼 Project Files
 
 #### 📂 Resources
 
-📂 **Screenshots (folder)**
-
 - client_dataset.csv : Raw csv file with E-commerce purchase order data.
+  📂 **Screenshots (folder)**
+- original_sc.png: Used in Readme.md - Original DataFrame
+- final_sc.png: Used in Readme.md - Final DataFrame
+
   ℹ️ **README.md (file)**
+
 - Information file: Find more information about program/analysis, like run instructions, screenshots, and more.
   🎬 **wholesale_data_analysis_starter_code.ipynb (Jupyter Notebook and VS Code accepted)**
 - Run File: This is where the data cleaning, calculations, and analysis took place.
