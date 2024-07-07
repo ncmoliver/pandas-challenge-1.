@@ -20,7 +20,7 @@ During this analysis, data cleaning was used to simplify the numbers in the Data
 x ⇢ the function requires a dataframe to be passed through.
 return
 
-    | Part of Function    | Description/Use Case                             |
+    | Part of Function    | Description/Function   |
 
 | ----------------- | ----------------------------------------- |
 | **(x)** | the function requires a dataframe to be passed through.
