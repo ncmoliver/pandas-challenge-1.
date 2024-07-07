@@ -1,19 +1,19 @@
 # E-Commerce Data Analysis
 
-## Overview
+## 🚁 Overview
 
 This project is aimed at achieving real-world results by using raw data from an E-commerce type of company to exploit my skills using Pandas (python) to organize, format, explore and clean data. In this project, I had the chance to explore assumptions, generate findings, and ultimately provide a summary of the data provided. In this file I will detail the process I went through in order to achieve the results provided.
 
-## Instructions
+## 🗺️ Instructions
 
 1. Clone repository [Project Repository](https://github.com/ncmoliver/pandas-challenge-1..git)
 2. Open Project Folder (panda-challenge-1)
    - Open wholesale_data_analysis_starter_code.ipynb
    - Select the ▶️ "Run All" and the program will do the work from there 😏
 
-## Data Analysis
+## 🔍 Data Analysis
 
-#### Data Exploration
+#### 🔭 Data Exploration
 
 - My initial interest in the data was understanding the company from an average perspective.
   - How much the average prouct sold for.
@@ -21,7 +21,7 @@ This project is aimed at achieving real-world results by using raw data from an 
   - How much the average product weighed.
   - Most sold subcategory
 
-#### Most Entries
+#### 📈 Most Entries
 
 - Identified the _category_ and _sub-category_ with the most order entries.
 - Identfied the top 5 clients with the most orders (Client ID and # of orders).
