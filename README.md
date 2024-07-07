@@ -13,11 +13,10 @@ During this analysis, data cleaning was used to make the findings clear. the dat
 - **(Function)** dollar_to_millions(x)
   - **x** : Requires a DataFrame of int/float values to be passed in.
   - **return**: Scaled Data and Formated Columns
-    - Scaled Data
-      - The raw results were in millions, which can be hard to distiguish.
-      - By dividing the money columns by one million, provided an easy way to read the numbers.
-    - Clearer Formatted Column Names
-      - Using the pandas .rename() function this provided an easy way to rename the column names to easily identifiable column names
+    - Scaled and Format Data - With the use of a lambda function, the data was scaled (each value divided by one million) and formatted (adding $ in front of the value and M representing million after the value).
+    - Clear Column Names - Using the pandas .rename() function, provided a uniform way to rename each column name to a more suitable name that matches the updated data.
+
+#### Screenshots: Data Cleaning Process
 
 | DataFrame Type    | Image Example                             |
 | ----------------- | ----------------------------------------- |
