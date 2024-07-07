@@ -4,6 +4,13 @@
 
 This project is aimed at achieving real-world results by using raw data from an E-commerce type of company to exploit my skills using Pandas (python) to organize, format, explore and clean data. In this project, I had the chance to explore assumptions, generate findings, and ultimately provide a summary of the data provided. In this file I will detail the process I went through in order to achieve the results provided.
 
+## Instructions
+
+1. Clone repository [Project Repository](https://github.com/ncmoliver/pandas-challenge-1..git)
+2. Open Project Folder (panda-challenge-1)
+   - Open wholesale_data_analysis_starter_code.ipynb
+   - Select the ▶️ "Run All" and the program will do the work from there 😏
+
 ## Data Analysis
 
 Step 1: Data Exploration
@@ -27,10 +34,13 @@ return
 
 ## Data Cleaning Process : Screenshots
 
-| DataFrame Type    | Image Example                             |
-| ----------------- | ----------------------------------------- |
-| Orignal DataFrame | <img src="./Screenshots/original_sc.png"> |
-| Final DataFrame   | <img src="./Screenshots/final_sc.png">    |
+#### Original DataFrame
+
+<img src="./Screenshots/original_sc.png">
+
+#### Final DataFrame
+
+<img src="./Screenshots/final_sc.png">
 
 ## Project Files
 
@@ -50,12 +60,6 @@ return
   - Created new dataframes out of existing dataframes
   - Concatenated two dataframes together
   - Used a lamba function to format and simply numeric dataframe
-
-## Instructions
-
-1. Clone repository [Project Repository](https://github.com/ncmoliver/pandas-challenge-1..git)
-2. Open Project Folder (panda-challenge-1)
-   - open wholesale\_
 
 ## References
 
