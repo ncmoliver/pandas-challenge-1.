@@ -21,7 +21,7 @@ This project is aimed at achieving real-world results by using raw data from an 
   - How much the average product weighed.
   - Most sold subcategory
 
-#### Most Entries\*\*
+#### Most Entries
 
 - Identified the _category_ and _sub-category_ with the most order entries.
 - Identfied the top 5 clients with the most orders (Client ID and # of orders).
@@ -34,7 +34,7 @@ This project is aimed at achieving real-world results by using raw data from an 
 <hr>
 | Parts of the Function | Description/Function       |
 | --------------------- | -------------------------- |
-| **(x)**               | the function requires a dataframe to be passed through.       |
+| **(x)**               | the function requires a dataframe to be passed through.|
 | **Returns**           | Scaled Data and Formated Columns: Each value in dataframe is divided by 1 Million to simplify numbers. Column names are renamed to adjust |
 
 ## Data Cleaning Process : Screenshots
