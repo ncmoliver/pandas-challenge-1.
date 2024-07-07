@@ -27,9 +27,9 @@ Step 1: Data Exploration
 ✓ Using a lamba function **dollar_to_millions(x)**:
 
 <hr>
-| Parts of the Function | Description/Function                                                                                                                      |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **(x)**               | the function requires a dataframe to be passed through.                                                                                   |
+| Parts of the Function | Description/Function       |
+| --------------------- | -------------------------- |
+| **(x)**               | the function requires a dataframe to be passed through.       |
 | **Returns**           | Scaled Data and Formated Columns: Each value in dataframe is divided by 1 Million to simplify numbers. Column names are renamed to adjust |
 
 ## Data Cleaning Process : Screenshots
