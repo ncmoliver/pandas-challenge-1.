@@ -25,7 +25,7 @@ return
 | **(x)**               | the function requires a dataframe to be passed through.                                                                                   |
 | **Returns**           | Scaled Data and Formated Columns: Each value in dataframe is divided by 1 Million to simplify numbers. Column names are renamed to adjust |
 
-#### Screenshots: Data Cleaning Process
+## Data Cleaning Process : Screenshots
 
 | DataFrame Type    | Image Example                             |
 | ----------------- | ----------------------------------------- |
@@ -34,10 +34,22 @@ return
 
 ## Project Files
 
-📂 **Resources**  
-📂 **Screenshots**  
-ℹ️ **README.md**  
-🎬 **wholesale_data_analysis_starter_code.ipynb (Jupyter Notebook and VS Code accepted)**
+#### 📂 Resources
+
+📂 **Screenshots (folder)**
+
+- client_dataset.csv : Raw csv file with E-commerce purchase order data.
+  ℹ️ **README.md (file)**
+- Information file: Find more information about program/analysis, like run instructions, screenshots, and more.
+  🎬 **wholesale_data_analysis_starter_code.ipynb (Jupyter Notebook and VS Code accepted)**
+- Run File: This is where the data cleaning, calculations, and analysis took place.
+- Pandas:
+  - Explored DataFrame to understand data better.
+  - Formatted and renamed columns.
+  - Performed numerous calcualtions
+  - Created new dataframes out of existing dataframes
+  - Concatenated two dataframes together
+  - Used a lamba function to format and simply numeric dataframe
 
 ## Instructions
 
