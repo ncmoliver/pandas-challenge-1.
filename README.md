@@ -1,10 +1,4 @@
-<style>
-  h1 {
-    color: "red";
-    align: "center";
-  }
-</style>
-<h1>E-Commerce Data Analysis</h1>
+<h1 align="center">E-Commerce Data Analysis</h1>
 
 <p align="center">
   <img src="readmeBanner.gif" width="800" height="400">
@@ -12,7 +6,7 @@
 
 ## ✨ Overview
 
-This project is aimed at achieving real-world results by using raw data from an E-commerce type of company to exploit my skills using Pandas (python) to organize, format, explore and clean data. In this project, I had the chance to explore assumptions, generate findings, and ultimately provide a summary of the data provided. In this file I will detail the process I went through in order to achieve the results provided.
+This project is aimed at achieving real-world results by using raw data from an E-commerce type of company to exploit my skills using Pandas (python) to organize, format, explore and clean data. In this project, I had the chance to explore the data, generate findings, perform calculations, analyze the data and provide a summary of the result findings. This file is a detailed description of the process I went through in order to achieve this project. Hope you enjoy!
 
 ## 🗺️ Instructions
 
