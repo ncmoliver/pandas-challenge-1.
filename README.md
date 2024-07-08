@@ -58,10 +58,10 @@ This project is aimed at achieving real-world results by using raw data from an 
 ✓ Data cleaning was used to simplify the numbers in the DataFrame.  
 ✓ Using a lamba function **dollar_to_millions(x)**:
 
-| Parts of the Function | Description/Function                                                                                                                      |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **(x)**               | the function requires a dataframe to be passed through.                                                                                   |
-| **Returns**           | Scaled Data and Formated Columns: Each value in dataframe is divided by 1 Million to simplify numbers. Column names are renamed to adjust |
+| Parts of the Function | Description/Function                                                                                                                                                                                             |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **(x)**               | the function requires a dataframe to be passed through.                                                                                                                                                          |
+| **Returns**           | Scaled Data and Formated Columns: Each value in dataframe is divided by 1 Million to simplify visibility of numbers. Values are formatted to represent the appropiate currency ($) and ratio of data (Millions). |
 
 <hr>
 
@@ -79,14 +79,14 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 #### 📄 Run File - wholesale_data_analysis_starter_code.ipynb
 
-File where data cleaning, calculations, and analysis are performed.
+Run file where data cleaning, calculations, and analysis are performed.
 
 - Requires an editor that can run Pandas packages
 - Suggested editors: Jupyter Notebook / VS Code
 
 #### 📄 README.md
 
-- Information file: Find more information about program/analysis, like run instructions, screenshots, and more.
+- Information file: Find more information about project/analysis, such as run instructions, screenshots, and more.
 
 #### 📁 Resources (folder)
 
@@ -99,11 +99,11 @@ File where data cleaning, calculations, and analysis are performed.
 
 ## Use of Pandas In Project
 
-- Explored DataFrame to understand data better.
-- Formatted and renamed columns.
-- Performed numerous calcualtions
+- Explore DataFrame for a better understanding of data.
+- Format and renamed columns.
+- Perform calcualtions (total weight, subtotal, etc. )
 - Created new dataframes out of existing dataframes
-- Concatenated two dataframes together
+- Concatenate two dataframes
 - Used a lamba function to format and simply numeric dataframe
 
 ## References
