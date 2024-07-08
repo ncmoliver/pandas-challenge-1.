@@ -20,12 +20,12 @@
 - [Final DataFrame](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#final-dataframe)
 
 [Project Files](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-project-files)  
-**📂 Project Folders**  
-[Resources](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-resources-folder)  
-[Screenshots](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-screenshots-folder)  
-**📄 Project Files**  
+**📄 Project (Files)**  
 [wholesale_data_analysis_starter_code.ipynb](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-wholesale_data_analysis_starter_codeipynb-file)  
 [README.md](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-readmemd-file)
+**📂 Project (Folders)**  
+[Resources](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-resources-folder)  
+[Screenshots](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-screenshots-folder)
 
 ## ✨ Overview
 
@@ -77,6 +77,17 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 ## 💼 Project Files
 
+#### 📄 Run File - wholesale_data_analysis_starter_code.ipynb
+
+File where data cleaning, calculations, and analysis are performed.
+
+- Requires an editor that can run Pandas packages
+- Suggested editors: Jupyter Notebook / VS Code
+
+#### 📄 README.md
+
+- Information file: Find more information about program/analysis, like run instructions, screenshots, and more.
+
 #### 📁 Resources (folder)
 
 - client_dataset.csv : Raw csv file with E-commerce purchase order data.
@@ -85,17 +96,6 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 - original_sc.png: Used in Readme.md - Original DataFrame
 - final_sc.png: Used in Readme.md - Final DataFrame
-
-#### 📄 README.md (file)
-
-- Information file: Find more information about program/analysis, like run instructions, screenshots, and more.
-
-#### 📄 wholesale_data_analysis_starter_code.ipynb (file)
-
-**🌟 Run File**: File where data cleaning, calculations, and analysis happens.
-
-- Requires an editor that can run Pandas packages
-- Suggested editors: Jupyter Notebook / VS Code
 
 ## Use of Pandas In Project
 
