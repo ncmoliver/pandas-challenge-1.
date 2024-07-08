@@ -1,4 +1,4 @@
-# E-Commerce Data Analysis
+<h1 align="center">E-Commerce Data Analysis</h1>
 
 <p align="center">
   <img src="readmeBanner.gif" width="800" height="400">
