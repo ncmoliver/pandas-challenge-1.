@@ -6,15 +6,15 @@
 
 ## Table of Contents
 
-[Overview](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-overview)  
-[Instructions](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#%EF%B8%8F-instructions)  
-[Data Analysis](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-data-analysis)
+I. [Overview](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-overview)  
+II. [Instructions](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#%EF%B8%8F-instructions)  
+III. [Data Analysis](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-data-analysis)
 
 - [Data Exploration](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#data-exploration)
 - [Most Entries](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#most-entries)
 
-[Data Cleaning Process](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-data-cleaning-process)  
-[Data Cleaning Process: Screenshots](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-data-cleaning-process--screenshots)
+IV. [Data Cleaning Process](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-data-cleaning-process)  
+V. [Data Cleaning Process: Screenshots](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-data-cleaning-process--screenshots)
 
 - [Original DataFrame](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#original-dataframe)
 - [Final DataFrame](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#final-dataframe)
