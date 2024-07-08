@@ -65,9 +65,10 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 #### wholesale_data_analysis_starter_code.ipynb (file)
 
+**Run File**: File where data cleaning, calculations, and analysis happens.
+
 - Requires an editor that can run Pandas packages
-  - Suggested editors: Jupyter Notebook / VS Code
-- Run File: This is where the data cleaning, calculations, and analysis took place.
+- Suggested editors: Jupyter Notebook / VS Code
 
 ## Use of Pandas In Project
 
