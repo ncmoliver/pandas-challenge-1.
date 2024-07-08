@@ -116,5 +116,5 @@ Run file where data cleaning, calculations, and analysis are performed.
 
 Online Tutor | **Emmanuel Mpwanga** | Provided helpful assistanced through the duration of the first half of the project.  
 [Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/) - Used for proper Markdown Syntax.  
-[How to use Pandas filter with IQR?](https://www.geeksforgeeks.org/how-to-use-pandas-filter-with-iqr/)
-[Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)
+[How to use Pandas filter with IQR?](https://www.geeksforgeeks.org/how-to-use-pandas-filter-with-iqr/)  
+[Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313) - Used to assist in debugging, problem solve, and in learning & practicing different methods.
