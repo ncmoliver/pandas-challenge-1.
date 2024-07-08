@@ -1,7 +1,7 @@
 # E-Commerce Data Analysis
 
 <p align="center">
-  <img src="readmeBanner.gif" width="600" height="400">
+  <img src="readmeBanner.gif" width="800" height="400">
 </p>
 ## 🚁 Overview
 
