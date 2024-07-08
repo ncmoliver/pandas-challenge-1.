@@ -1,5 +1,6 @@
 # E-Commerce Data Analysis
 
+<img src="readmeBanner.gif">
 ## 🚁 Overview
 
 This project is aimed at achieving real-world results by using raw data from an E-commerce type of company to exploit my skills using Pandas (python) to organize, format, explore and clean data. In this project, I had the chance to explore assumptions, generate findings, and ultimately provide a summary of the data provided. In this file I will detail the process I went through in order to achieve the results provided.
@@ -19,7 +20,7 @@ This project is aimed at achieving real-world results by using raw data from an 
   - How much the average prouct sold for.
   - How much the average product cost.
   - How much the average product weighed.
-  - Most sold subcategory
+  - Most sold subcategory + additional metrics
 
 #### Most Entries
 
@@ -81,7 +82,7 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 ## References
 
-Online Tutor | Emmanuel Mpwanga | Provided assistanced throughout first half of project.  
+Online Tutor | **Emmanuel Mpwanga** | Provided helpful assistanced through the duration of the first half of the project.  
 [Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/) - Used for proper Markdown Syntax.  
 [How to use Pandas filter with IQR?](https://www.geeksforgeeks.org/how-to-use-pandas-filter-with-iqr/)
 [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)
