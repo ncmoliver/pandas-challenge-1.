@@ -50,20 +50,20 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 ## 💼 Project Files
 
-#### Resources (folder)
+#### 📁 Resources (folder)
 
 - client_dataset.csv : Raw csv file with E-commerce purchase order data.
 
-#### Screenshots (folder)
+#### 📁 Screenshots (folder)
 
 - original_sc.png: Used in Readme.md - Original DataFrame
 - final_sc.png: Used in Readme.md - Final DataFrame
 
-#### README.md (file)
+#### 📄 README.md (file)
 
 - Information file: Find more information about program/analysis, like run instructions, screenshots, and more.
 
-#### wholesale_data_analysis_starter_code.ipynb (file)
+#### 📄 wholesale_data_analysis_starter_code.ipynb (file)
 
 **Run File**: File where data cleaning, calculations, and analysis happens.
 
