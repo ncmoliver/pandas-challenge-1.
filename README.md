@@ -20,10 +20,10 @@
 - [Final DataFrame](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#final-dataframe)
 
 [Project Files](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-project-files)  
-**📄 Project (Files)**  
+**📄 Files**  
 [wholesale_data_analysis_starter_code.ipynb](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-wholesale_data_analysis_starter_codeipynb-file)  
 [README.md](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-readmemd-file)  
-**📂 Project (Folders)**  
+**📂 Folders**  
 [Resources](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-resources-folder)  
 [Screenshots](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-screenshots-folder)
 
