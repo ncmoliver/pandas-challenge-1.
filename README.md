@@ -81,7 +81,7 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 ## References
 
-Online Tutor | Emmanuel Mpwanga | Provided assistanced throughout first half of project.
-[Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/) - Used for proper Markdown Syntax.
+Online Tutor | Emmanuel Mpwanga | Provided assistanced throughout first half of project.  
+[Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/) - Used for proper Markdown Syntax.  
 [How to use Pandas filter with IQR?](https://www.geeksforgeeks.org/how-to-use-pandas-filter-with-iqr/)
 [Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)
