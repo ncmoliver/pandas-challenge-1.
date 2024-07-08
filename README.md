@@ -42,11 +42,12 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 #### Data Exploration
 
-- My initial interest in the data was understanding the company from an average perspective.
-  - How much the average prouct sold for.
-  - How much the average product cost.
-  - How much the average product weighed.
-  - Most sold subcategory + additional metrics
+My initial interest in the data was understanding the company from an average perspective.
+
+- How much the average prouct sold for.
+- How much the average product cost.
+- How much the average product weighed.
+- Most sold subcategory + additional metrics
 
 #### Most Entries
 
