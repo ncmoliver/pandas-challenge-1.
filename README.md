@@ -98,7 +98,7 @@ Run file where data cleaning, calculations, and analysis are performed.
 - original_sc.png: Used in Readme.md - Original DataFrame
 - final_sc.png: Used in Readme.md - Final DataFrame
 
-## Use of Pandas In Project
+## 🐻‍❄️ Use of Pandas In Project
 
 - Explore DataFrame for a better understanding of data.
 - Format and renamed columns.
@@ -106,6 +106,11 @@ Run file where data cleaning, calculations, and analysis are performed.
 - Created new dataframes out of existing dataframes
 - Concatenate two dataframes
 - Used a lamba function to format and simply numeric dataframe
+
+## 🔬 Findings
+
+- The companies top product category was the consumables category, with bathroom supplies being the most purchased consumable.
+- The compnaies top client is client 33615, which brought in a Net Profit of $36.58 Million dollars with 64, 313 units purchased.
 
 ## References
 
