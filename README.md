@@ -50,27 +50,37 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 ## 💼 Project Files
 
-**Resources (folder)**
+#### Resources (folder)
 
 - client_dataset.csv : Raw csv file with E-commerce purchase order data.
-  **Screenshots (folder)**
+
+## Screenshots (folder)
+
 - original_sc.png: Used in Readme.md - Original DataFrame
 - final_sc.png: Used in Readme.md - Final DataFrame
 
-  **README.md (file)**
+#### README.md (file)
 
 - Information file: Find more information about program/analysis, like run instructions, screenshots, and more.
-  **wholesale_data_analysis_starter_code.ipynb (Jupyter Notebook and VS Code accepted)**
+
+#### wholesale_data_analysis_starter_code.ipynb (file)
+
+- Requires an editor that can run Pandas packages
+  - Suggested editors: Jupyter Notebook / VS Code
 - Run File: This is where the data cleaning, calculations, and analysis took place.
-- Pandas:
-  - Explored DataFrame to understand data better.
-  - Formatted and renamed columns.
-  - Performed numerous calcualtions
-  - Created new dataframes out of existing dataframes
-  - Concatenated two dataframes together
-  - Used a lamba function to format and simply numeric dataframe
+
+## Use of Pandas In Project
+
+- Explored DataFrame to understand data better.
+- Formatted and renamed columns.
+- Performed numerous calcualtions
+- Created new dataframes out of existing dataframes
+- Concatenated two dataframes together
+- Used a lamba function to format and simply numeric dataframe
 
 ## References
 
+Online Tutor | Emmanuel Mpwanga | Provided assistanced throughout first half of project.
 [Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/) - Used for proper Markdown Syntax.
 [How to use Pandas filter with IQR?](https://www.geeksforgeeks.org/how-to-use-pandas-filter-with-iqr/)
+[Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)
