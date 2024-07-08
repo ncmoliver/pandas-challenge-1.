@@ -54,7 +54,7 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 - client_dataset.csv : Raw csv file with E-commerce purchase order data.
 
-## Screenshots (folder)
+#### Screenshots (folder)
 
 - original_sc.png: Used in Readme.md - Original DataFrame
 - final_sc.png: Used in Readme.md - Final DataFrame
