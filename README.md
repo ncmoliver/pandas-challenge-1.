@@ -46,11 +46,11 @@ This project is aimed at achieving real-world results by using raw data from an 
 
 ### Original DataFrame
 
-<img src="./Screenshots/original_sc.png">
+<img src="./Screenshots/original_sc.png" width="600">
 
 ### Final DataFrame
 
-<img src="./Screenshots/final_sc.png">
+<img src="./Screenshots/final_sc.png" width="600">
 
 ## 💼 Project Files
 
