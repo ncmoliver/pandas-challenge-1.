@@ -13,7 +13,7 @@
 - [Data Exploration](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#data-exploration)
 - [Most Entries](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#most-entries)
 
-[Data Cleaning Process](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-data-cleaning-process)
+[Data Cleaning Process](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-data-cleaning-process)  
 [Data Cleaning Process: Screenshots](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-data-cleaning-process--screenshots)
 
 - [Original DataFrame](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#original-dataframe)
