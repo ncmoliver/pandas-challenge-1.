@@ -4,6 +4,19 @@
   <img src="readmeBanner.gif" width="800" height="400">
 </p>
 
+## Table of Contents
+
+[Overview](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-overview)  
+[Instructions](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#%EF%B8%8F-instructions)  
+[Data Analysis](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-data-analysis)
+
+- [Data Exploration](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#data-exploration)
+- [Most Entries](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#most-entries)
+  [Data Cleaning Process](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-data-cleaning-process)
+  [Data Cleaning Process: Screenshots](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#-data-cleaning-process--screenshots)
+- [Original DataFrame](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#original-dataframe)
+- [Final DataFrame](https://github.com/ncmoliver/pandas-challenge-1./blob/main/README.md#final-dataframe)
+
 ## ✨ Overview
 
 This project is aimed at achieving real-world results by using raw data from an E-commerce type of company to exploit my skills using Pandas (python) to organize, format, explore and clean data. In this project, I had the chance to explore the data, generate findings, perform calculations, analyze the data and provide a summary of the result findings. This file is a detailed description of the process I went through in order to achieve this project. Hope you enjoy!
